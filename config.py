@@ -1,0 +1,1 @@
+GOOGLE_API_KEY = # Replace with your actual Google API key
