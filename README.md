@@ -85,5 +85,5 @@ Developed by Sahil Bhoite
 
 ---
 
-Developed with ❤️ for the Walmart Hackathon 2024
+
 
